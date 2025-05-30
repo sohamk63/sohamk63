@@ -9,13 +9,13 @@
 ## 📚 Education
 - **B.Tech in Computer Engineering (Major: Data Science)**  
   **Ramrao Adik Institute of Technology**  
-  CGPA: 8.43 (till Sem-6)  
+  CGPA: 8.47 (till Sem-7)  
   Navi Mumbai, India
 
 ## 💼 Projects
 
-### [Safety First]
-- **Tech Stack**: Python, YOLO Object Detection, Flask, Supabase
+### [Safety First](https://drive.google.com/file/d/1M0bNwg0Mzdurm9l6fKPHlt4lFW2RpPsb/view?usp=sharing)
+- **Tech Stack**: Python, YOLO Object Detection, FastAPI, React Native, Supabase
 - **Description**: Developed a real-time PPE compliance monitoring system using YOLO-based object detection. The project includes alert mechanisms for admins and workers on safety hazards and features for damage reporting and maintenance requests.
 
 ### [AuthentiFace]
@@ -32,8 +32,8 @@
 
 ## 🛠️ Technical Skills
 - **Languages & Frameworks**: Python, C, Java, HTML, CSS, JavaScript, React Native, Next.js, SQL, FastAPI, Flask
-- **Tools**: VS Code, GitHub, AWS, Figma, Jira, PowerBI, Tableau, R Studio, MySQL, Supabase, MongoDB
-- **Soft Skills**: Problem-Solving, Team Collaboration, Communication, Project Management, Agile, Leadership
+- **Tools**: VS Code, GitHub, MySQL, Supabase, MongoDB.
+- **Soft Skills**: Problem-Solving, Team Collaboration, Communication.
 
 ## 🏆 Achievements
 - **Techathon Kode Konquerors**: First Place for 'Safety First' project (2024)
