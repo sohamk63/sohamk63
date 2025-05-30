@@ -31,7 +31,7 @@
 - **Description**: Multi-lingual financial security app featuring fraud detection and an OCR model for form guidance. Integrated with a chatbot to address user queries on cyber laws.
 
 ## 🛠️ Technical Skills
-- **Languages & Frameworks**: Python, C, Java, HTML, CSS, JavaScript, React Native, Next.js, SQL, FastAPI, Flask
+- **Languages & Frameworks**: Python, C, Java, React, HTML, CSS, JavaScript, React Native, SQL, FastAPI.
 - **Tools**: VS Code, GitHub, MySQL, Supabase, MongoDB.
 - **Soft Skills**: Problem-Solving, Team Collaboration, Communication.
 
@@ -41,4 +41,3 @@
 - **AWS Academy Cloud Architecting Graduate**
 - **Copyright**: AuthentiFace copyrighted
 
-Feel free to explore my projects, and don't hesitate to reach out for collaborations!
