@@ -6,9 +6,9 @@ Backend Engineer | React Developer | Systems Enthusiast
 📧 [gksoham1@gmail.com](mailto:gksoham1@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/sohamk63)  
 
-🏆 **LeetCode Contest Rating: 1750**
+🏆 **LeetCode Contest Rating: 1773**
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/sohamk63?theme=dark&font=Nunito)
+![LeetCode Stats](https://leetcard.jacoblin.cool/gksoham1?theme=dark&font=Nunito)
 
 ---
 
